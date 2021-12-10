@@ -1,4 +1,4 @@
-# Music-Genre-Identification-using-ANN
+#Music-Genre-Identification-using-ANN
 
 #We have used ANN Classifier to classify the music into various genres such as :
 
@@ -18,4 +18,5 @@ The Datset used for this project is GITZAN dataset. This dataset was used for th
 We have also used Keras API to train a ANN Classifier. A module named Librosa was used for music analysis.Librosa is a Python library that analyzes music and audio. Librosa is primarily used when working with audio data, such as in music creation (using LSTMs) and automatic speech recognition. It gives you the tools you'll need to build music information retrieval systems. Librosa aids in the visualization and feature extraction of audio signals using various signal processing techniques.
 
 [MUSIC GENRE IDENTIFICATION.pptx](https://github.com/saicharan/Music-Genre-Identification-using-ANN/files/7695371/MUSIC.GENRE.IDENTIFICATION.pptx)
-This attached file here is a presentation explaining about this project. Coding part can be found at code.py
+ 
+This attached file here is a presentation explaining about this project. Coding part can be found at Music-Genre_ANN.py .
